@@ -1,6 +1,6 @@
 {
   "name": "pokemon-showdown",
-  "description": "The server for the Pokémon Showdown battle simulator",
+  "description": "The server for the PokÃ©mon Showdown battle simulator",
   "version": "0.11.10",
   "main": "dist/sim/index.js",
   "types": "dist/sim/index.d.ts",
@@ -77,7 +77,7 @@
     "eslint": "^9.31.0",
     "globals": "^16.0.0",
     "mocha": "^11.7.1",
-    "smogon": "^3.0.0",
+    "smogon": "^4.0.5",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.38.0"
   }
